@@ -2068,7 +2068,7 @@
           <hashTree/>
         </hashTree>
         <TestAction guiclass="TestActionGui" testclass="TestAction" testname="Namespace" enabled="true">
-          <intProp name="ActionProcessor.action">0</intProp>
+          <intProp name="ActionProcessor.action">1</intProp>
           <intProp name="ActionProcessor.target">0</intProp>
           <stringProp name="ActionProcessor.duration">100</stringProp>
         </TestAction>
